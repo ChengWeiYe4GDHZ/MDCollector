@@ -12,6 +12,9 @@
 	入口:com.yqqtp.laoyouqian.starter.Starter
 	行情订阅:可在Main中直接填写在数组中,也可自己写个配置文件或读取数据库来进行订阅初始化
 	注:行情合约代码必须为全部小写
+### 配置文件:
+	RtConfig.properties 配置MongoDB
+	CTPConfig.properties 配置CTP相关信息 
 ### 技术选型:
 	Spring
 	MongoDB
