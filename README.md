@@ -15,6 +15,7 @@
 ### 配置文件:
 	RtConfig.properties 配置MongoDB
 	CTPConfig.properties 配置CTP相关信息 
+	UserID:交易账号,Password:交易密码,BrokerId:证券公司代码,TdAddress:交易地址,MdAddress:行情地址. 其他基本可以不修改
 ### 技术选型:
 	Spring
 	MongoDB
