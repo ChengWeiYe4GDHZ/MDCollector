@@ -4,3 +4,4 @@
 .settings
 /log/
 /target/
+!*.dll
